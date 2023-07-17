@@ -1,2 +1,2 @@
-# Landing-page Tailwind CSS
+# Landing page Tailwind CSS
 Tailwind CSS is a utility-first, modular CSS framework designed for rapidly building custom user interfaces. It provides low-level utility classes that allow developers to quickly build responsive view components and pages using HTML and CSS. Using Tailwind CSS allows developers to quickly create pages and components without having to write custom styling or even know how to code. The Landing Page Tailwind CSS tool provides quick access to premade page templates and components, making it easy for developers to customize their webpages with a few clicks. With its intuitive drag-and-drop interface, developers can quickly add new elements to the page, such as images, text, buttons, and more. 
